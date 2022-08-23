@@ -3,7 +3,9 @@
 The purpose of this project is to design a webpage that allows users to filter UFO sightings for multiple criteria at the same time. Users will be able to filter the UFO sightings by date, city, state, country, and shape.
 ## Resources
 Data Source: data.js
+
 Images: nasa.jpg
+
 Software: Visual Studio Code 1.70.1, JavaScript, HTML, CSS, BootStrap
 ## Results
 ![The Truth Is Out There](https://user-images.githubusercontent.com/105949411/186279345-78ee764a-44aa-4a3a-beec-20c83f8a163b.png)
